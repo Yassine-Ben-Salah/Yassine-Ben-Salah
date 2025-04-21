@@ -37,13 +37,13 @@ A console-based community platform:
 
 ## 🧰 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=spring,springboot,java,nextjs,react,nodejs,express,mongodb,flask,py,c,cpp,js,git,github,vscode)
+![My Skills](https://skillicons.dev/icons?i=spring,java,nextjs,react,nodejs,express,mongodb,flask,py,c,cpp,js,git,github,vscode)
 
 ---
 
 ## 📫 Get in Touch
 
-- 📧 [yassine.yassinebs987@gmail.com](mailto:yassine.yassinebs987@gmail.com)
+- 📧 [yassinebs987@gmail.com](mailto:yassinebs987@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/yassine-ben-salah-974262360/)
 - 🐙 [GitHub](https://github.com/Yassine-Ben-Salah)
 
