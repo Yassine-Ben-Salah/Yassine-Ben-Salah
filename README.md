@@ -1,30 +1,43 @@
 # 👋 Hello! I'm Yassine Ben Salah
 
-🎓I'am a software engineering student passionate about full-stack development and AI.
+🎓 I am a software engineering student passionate about full-stack development and artificial intelligence.
 
 ---
 
-## 🚀 Projects Highlights
+## 🚀 Project Highlights
 
-### 🔍 Automatic Hooded Person Detection
-YOLOv8-based computer vision app to detect suspicious individuals:
-- 🧠 YOLOv8 for real-time detection
-- 🐍 Flask for backend API
-- ⚛️ ReactJS for the frontend
-- 🟢 Express.js and Node.js as middleware/backend
-- 💾 MongoDB for data storage
+### 🎥 Cinema Reservation System (JEE + Next.js)
+A full-stack web application for reserving cinema tickets:
+- ☕ Java EE backend with WildFly
+- 🖥️ Next.js for modern frontend
+- 🧩 RESTful APIs and dynamic seat reservation
+- 🔐 Admin & user dashboards with session handling
+
+### 🔎 File-based Search Engine in Java
+Custom-built search engine with:
+- 📂 Document parsing & indexing
+- 🔍 Keyword-based retrieval
+- 🧠 Ranking algorithms for relevance
+
+### 🕵️ Automatic Hooded Person Detection
+YOLOv8-powered computer vision system:
+- 🧠 Real-time detection using YOLOv8
+- 🐍 Flask API backend
+- ⚛️ ReactJS frontend
+- 🟢 Node.js & Express middleware
+- 💾 MongoDB for image data persistence
 
 ### 💬 Forum in C
-Console-based forum app built in C:
-- File-based data storage
-- User and post management
-- Terminal interface
+A console-based community platform:
+- 🧾 File-based storage
+- 👤 User & post management
+- 🖥️ Built entirely with C and terminal I/O
 
 ---
 
 ## 🧰 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=springboot,c,cpp,py,js,react,nextjs,java,nodejs,express,mongodb,flask,git,github,vscode)
+![My Skills](https://skillicons.dev/icons?i=spring,springboot,java,nextjs,react,nodejs,express,mongodb,flask,py,c,cpp,js,git,github,vscode)
 
 ---
 
@@ -33,5 +46,7 @@ Console-based forum app built in C:
 - 📧 [yassine.yassinebs987@gmail.com](mailto:yassine.yassinebs987@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/yassine-ben-salah-974262360/)
 - 🐙 [GitHub](https://github.com/Yassine-Ben-Salah)
+
+---
 
 Thanks for visiting! 😊
