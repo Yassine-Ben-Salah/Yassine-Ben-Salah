@@ -1,9 +1,3 @@
-## Hi there 👋
-
-
-**Yassine-Ben-Salah/Yassine-Ben-Salah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 # 👋 Hello! I'm Yassine Ben Salah
 
 🎓I'am a software engineering student passionate about full-stack development and AI.
@@ -41,5 +35,3 @@ Console-based forum app built in C:
 - 🐙 [GitHub](https://github.com/Yassine-Ben-Salah)
 
 Thanks for visiting! 😊
-
-
