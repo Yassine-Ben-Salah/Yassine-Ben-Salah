@@ -37,7 +37,7 @@ A console-based community platform:
 
 ## 🧰 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=spring,java,nextjs,react,nodejs,express,mongodb,flask,py,c,cpp,js,git,github,vscode)
+![My Skills](https://skillicons.dev/icons?i=spring,springboot,java,nextjs,react,angular,nodejs,express,mongodb,flask,py,c,cpp,js,git,github,vscode)
 
 ---
 
